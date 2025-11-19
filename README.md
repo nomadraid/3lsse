@@ -35,7 +35,7 @@ git --version
 Example:
 ```bash
 git clone https://github.com/nomadraid/3lsse.git
-cd .dotfiles
+cd 3lsse
 ```
 
 Your repo structure should look like:
